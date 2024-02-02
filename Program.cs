@@ -1,7 +1,13 @@
+<<<<<<< HEAD
+﻿
+using System;
+private static void Board()
+=======
 ﻿using System;
 
 public class TicTacToeGame
 
+>>>>>>> a506733c8113deb0819848ad141b49c156625dca
 {
 
     // Method to print the current state of the game board
